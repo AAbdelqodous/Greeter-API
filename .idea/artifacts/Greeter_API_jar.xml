@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Greeter-API:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Greeter_API_jar</output-path>
+    <root id="archive" name="Greeter-API.jar">
+      <element id="module-output" name="Greeter-API" />
+    </root>
+  </artifact>
+</component>
